@@ -1,3 +1,3 @@
 # Demo
-For Learning Github and Git
+This is my First Git Repository.
 Author - Sahil Sheikh
